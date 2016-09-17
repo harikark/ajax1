@@ -1,0 +1,18 @@
+body{
+	background: green 
+}
+
+title{
+	margin: 10px
+	color: yellow;
+}
+
+#item{
+	font-style: Georgia
+	font-color: orange;
+
+}
+
+h1{
+	font-color:yellow;
+}
